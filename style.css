@@ -14,7 +14,12 @@ h1 {
   text-align: center;
 }
 
+#input {
+	margin-left: 2.5em;
+}
+
 button {
+	margin-top: 1em;
 	transition-duration: 0.4s;
 	border-radius: 12px;
 	background-color: #add8e6;
@@ -27,8 +32,8 @@ button:hover {
 }
 
 #set {
-	margin-left: 3em;
-	margin-right: 1em;
+	margin-left: 5em;
+	margin-right: 1.5em;
 }
 
 #set:hover {
